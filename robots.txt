@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shoodahwei.cgallello.com/sitemap.xml
